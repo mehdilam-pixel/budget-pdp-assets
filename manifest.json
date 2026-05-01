@@ -1,0 +1,20 @@
+{
+  "name": "Budget PDP",
+  "short_name": "Budget",
+  "display": "standalone",
+  "theme_color": "#0F8A5F",
+  "background_color": "#0A6E50",
+  "icons": [
+    {
+      "src": "https://mehdilam-pixel.github.io/budget-pdp-assets/favicon.ico",
+      "sizes": "16x16 32x32 48x48 96x96",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://mehdilam-pixel.github.io/budget-pdp-assets/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
