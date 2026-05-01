@@ -1,11 +1,17 @@
 {
   "name": "Budget PDP",
   "short_name": "Budget",
-  "start_url": "https://script.google.com/macros/s/https://script.google.com/macros/s/AKfycbwS4noJSdI3fCnZjtb2GT17c7bc4U_IvNaEZsP1HKOgrX1im-9POOxFgwT3QLxlGKNPhQ/exec",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#54bd82",
   "background_color": "#eefaf3",
   "icons": [
+    {
+      "src": "https://mehdilam-pixel.github.io/budget-pdp-assets/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
     {
       "src": "https://mehdilam-pixel.github.io/budget-pdp-assets/icon-512x512.png",
       "sizes": "512x512",
