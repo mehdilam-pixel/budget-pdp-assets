@@ -5,7 +5,7 @@
   "display": "standalone",
   "orientation": "portrait",
   "theme_color": "#f4f4fc",
-  "background_color": "##1a1a2e",
+  "background_color": "#1a1a2e",
   "icons": [
     {
       "src": "https://mehdilam-pixel.github.io/budget-pdp-assets/BudgetSmart-192x192.png",
