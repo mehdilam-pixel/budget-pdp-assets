@@ -1,19 +1,20 @@
 {
-  "name": "Budget PDP",
+  "name": "BudgetSmart",
   "short_name": "Budget",
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#54bd82",
-  "background_color": "#eefaf3",
+  "orientation": "portrait",
+  "theme_color": "#f4f4fc",
+  "background_color": "##1a1a2e",
   "icons": [
     {
-      "src": "https://mehdilam-pixel.github.io/budget-pdp-assets/BudgetSmart-512x512.png",
-      "sizes": "512x512",
+      "src": "https://mehdilam-pixel.github.io/budget-pdp-assets/BudgetSmart-192x192.png",
+      "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://mehdilam-pixel.github.io/budget-pdp-assets/BudgetSmart-192x192.png",
+      "src": "https://mehdilam-pixel.github.io/budget-pdp-assets/BudgetSmart-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
