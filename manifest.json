@@ -1,11 +1,11 @@
 {
   "name": "BudgetSmart",
-  "short_name": "Budget",
-  "start_url": ".",
+  "short_name": "BudgetSmart",
+  "start_url": "https://script.google.com/macros/s/AKfycby3O6xvS-MuPwzczTD8zbiyZNwJ59BJgFEM6U4y9jBLpQe5Ro5hV4QzDw_S52jbMhfIJg/exec",
   "display": "standalone",
   "orientation": "portrait",
   "theme_color": "#1a1a2e",
-  "background_color": "#1a1a2e",
+  "background_color": "#F4F5F7",
   "icons": [
     {
       "src": "BudgetSmart-192x192.png",
